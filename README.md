@@ -73,7 +73,7 @@ Russian
 📄 License
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
+🙋‍♂️ Creator
 Vatsal Varshney
 
 Feel free to reach out for feedback or collaboration!
